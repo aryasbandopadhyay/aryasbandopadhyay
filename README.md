@@ -16,6 +16,18 @@ I'm Arya Sekhar Bandopadhyay! I'm a **Software Developer, Systems Engineer and a
 <!-- gif Image -->
 <img src="https://github.com/aryasbandopadhyay/aryasbandopadhyay/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
+### 💼  Work Experience: 
+* Software Developer @Barclays :toolbox:.
+
+* Project Strategist and Software Developer Intern @Saleassist.ai :toolbox:.
+
+* Full Stack Developer Intern @GaiusNetworks
+
+* Product Manager and Data Analyst Intern @RedFoxLabs Vietnam  
+
+* Data Engineer Trainee @Ovonts
+
+
 <!-- current status -->
 ### 💼  Things that I'm currently working on: 
 * Data Structures and Algorithms 💫
