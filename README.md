@@ -17,7 +17,7 @@ I'm Arya Sekhar Bandopadhyay! I'm a **Software Developer, Systems Engineer and a
 <img src="https://github.com/aryasbandopadhyay/aryasbandopadhyay/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
 ### 💼  Work Experience: 
-* Software Developer @Barclays :toolbox:.
+* Software Developer @Arcesium :toolbox:.
 
 * Project Strategist and Software Developer Intern @Saleassist.ai :toolbox:.
 
